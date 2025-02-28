@@ -6,7 +6,7 @@ I have 13 years of experience in the IT industry, my main goal is to write high 
 
 Lately, I've been diving into cybersecurity, focusing on reverse engineering and binary exploitation.
 
-I'm a <img src="https://pwn.college/themes/dojo_theme/static/img/dojo/green.svg?d=26301f10" width="50" height="auto" /> on [**pwn.college**:](https://pwn.college/hacker/45076)
+I'm a <img src="https://pwn.college/belt/green.svg" width="50" height="auto" /> on [**pwn.college**:](https://pwn.college/hacker/45076)
 
 - ✅ 🟠 **Orange Belt**: Cybersecurity and Web Exploitation
 - ✅ 🟡 **Yellow Belt**: Reverse Engineering, Memory Errors, Shellcoding
